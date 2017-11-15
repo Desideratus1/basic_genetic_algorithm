@@ -5,7 +5,7 @@ import string
 from random import randint
 
 THRESHHOLD = 5
-NUMBER_OF_SUCCESSORS = 5
+NUMBER_OF_SUCCESSORS = 10
 POSSIBLE_CHARACTERS = string.printable
 
 def make_random_string(string_length):
